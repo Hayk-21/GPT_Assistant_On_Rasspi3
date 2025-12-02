@@ -120,6 +120,6 @@ urllib3==1.26.5
 v4l2-python3==0.3.2
 Wave==0.0.2
 webencodings==0.5.1
-Werkzeug==1.0.1
+Werkzeug==3.1.4
 wrapt==1.12.1
 yarl==1.9.2
